@@ -9,7 +9,7 @@ Modern web applications perform a variety of functions and provide amazing featu
 3. mkdir src && cd src
 4. git init
 5. git clone https://github.com/igortosic-easymind/item_catalog_application.git
-6. cd djagno-python-crud
+6. cd item_catalog_application
 7. `python manage.py runserver` <port>
 
 You might install `pip install Pillow` after you start the server
